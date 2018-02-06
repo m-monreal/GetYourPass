@@ -2,6 +2,7 @@
 // Get your pass
 // By m.monreal
 
+
 import java.util.Scanner;
 
 public class GetYourPass {
