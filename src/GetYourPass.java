@@ -1,6 +1,6 @@
 // Pass generator
 // Get your pass
-// By cef
+// By m-monreal
 
 import java.util.Scanner;
 
